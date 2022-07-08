@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T23:45:56.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Lesn2xy8Nr7wIQL7LyCc" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-08T23:54:10.021Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="8gPC75j7_qfbL4Wcme0d" version="20.0.4" type="github">
   <diagram id="TkSN4THGrSQcpOjzApCb" name="Page-1">
-    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="PFxsOMVdephbzhLseM3K-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="100" width="200" height="1000" as="geometry" />
         </mxCell>
-        <mxCell id="PFxsOMVdephbzhLseM3K-6" value="Escolher forma de retirada" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="PFxsOMVdephbzhLseM3K-3">
+        <mxCell id="PFxsOMVdephbzhLseM3K-6" value="Escolher forma de retirada/entrega" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="PFxsOMVdephbzhLseM3K-3">
           <mxGeometry x="30" y="790" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PFxsOMVdephbzhLseM3K-9" value="Escolher o lanche" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="PFxsOMVdephbzhLseM3K-3">
@@ -31,10 +31,10 @@
         <mxCell id="PFxsOMVdephbzhLseM3K-14" value="Acessar o carrinho" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="PFxsOMVdephbzhLseM3K-3">
           <mxGeometry x="30" y="490" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PFxsOMVdephbzhLseM3K-15" value="Adicionar mais itens ao carrinho" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="PFxsOMVdephbzhLseM3K-3">
+        <mxCell id="PFxsOMVdephbzhLseM3K-15" value="Adicionar/Remover mais itens ao carrinho" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="PFxsOMVdephbzhLseM3K-3">
           <mxGeometry x="30" y="590" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="PFxsOMVdephbzhLseM3K-16" value="Adicionar forma de pagamento" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="PFxsOMVdephbzhLseM3K-3">
+        <mxCell id="PFxsOMVdephbzhLseM3K-16" value="Adicionar/Remover forma de pagamento" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="PFxsOMVdephbzhLseM3K-3">
           <mxGeometry x="30" y="690" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PFxsOMVdephbzhLseM3K-17" value="Fazer pedido" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#000000;" vertex="1" parent="PFxsOMVdephbzhLseM3K-3">
